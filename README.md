@@ -45,7 +45,7 @@ My work focuses on leveraging modern AI technologies to optimize decision-making
 ---
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrikbo@larsen.dk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henrikbo@larsen.dk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrikbolarsen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henrikbo@larsen.dk)
 
 ---
 
