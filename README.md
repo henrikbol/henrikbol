@@ -12,7 +12,7 @@ My work focuses on leveraging modern AI technologies to optimize decision-making
 
 ### 🚀 Key Projects & Experience
 
-* **Karnov Group (Lead AI Developer):** I led the development of "Kaila," a legal AI assistant powered by a **multi-agent RAG system** processing over 5 million documents. This solution was essential to Karnov's transformation from a legal publisher to a digital service company. Focus on MLOps and accuracy.
+* **Karnov Group (AI Developer):** As an external AI consultant, I played a central role in developing 'Kaila,' a legal AI assistant powered by a multi-agent RAG system processing over 5 million documents. This solution was essential to Karnov's transformation from a legal publisher to a digital service company. Key priorities included retrieval accuracy, hallucination mitigation, and building secure, production-grade MLOps infrastructure..
 
 * **Rema1000 (Data Scientist):** I architected a comprehensive Data Science and ML platform (AWS/Docker/Python) to provide insights into customer behavior and sales forecasting. This platform enabled the launch of the **Vigo** delivery service.
 
@@ -35,7 +35,7 @@ My work focuses on leveraging modern AI technologies to optimize decision-making
 
 **Data & Databases**
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Solr](https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-D32F2F?style=for-the-badge&logo=qdrant&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Solr](https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-D32F2F?style=for-the-badge&logo=qdrant&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools & Visualization**
 
